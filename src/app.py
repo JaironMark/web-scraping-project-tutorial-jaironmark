@@ -18,7 +18,8 @@ driver = webdriver.Chrome(
 )
 
 #NOTA !!!
-# TENGO TANTAS COSAS INSTALADAS QUE NO SE PORQUE NO FUNCIONA EL CODIGO EN EL REPOSITORIO
+# TENGO TANTAS COSAS INSTALADAS QUE NO SE PORQUE NO FUNCIONA EL CODIGO EN EL REPOSITORIO.
+#Gracias por su comprensión
 
 URL = "https://companies-market-cap-copy.vercel.app/index.html"
 driver.get(URL)
